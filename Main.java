@@ -2,6 +2,15 @@ import java.util.ArrayList;
 
 public class Main {
 	public static void main(String[] args) {
+		
+		/*	an arraylist is a collection
+			it's a type of
+			resizable array elements can be added
+			and removed
+			after the compilation phase which you
+			cannot normally do with standard arrays
+		*/
+
 		ArrayList<String> food = new ArrayList<String>();
 
 		food.add("pizza");
